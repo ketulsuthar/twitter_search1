@@ -1,0 +1,28 @@
+<h1>Listing users</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Username</th><th></th>
+      <th>Email</th>
+      
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+
+  <tbody>
+<tr>
+
+</tr>
+    <% @@users.each do |ur| %>
+      <tr>
+        <td><%= ur.name %></td>
+        <td><%= ur.screen_name %></td>
+	
+            </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>

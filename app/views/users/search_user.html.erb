@@ -1,0 +1,11 @@
+<%= form_for :name do |f| %>
+  <p>
+    <%= text_field_tag(:name) %>
+  </p>
+ 
+  <p>
+    <%= f.submit "search" , :onclick => 'show'%>
+  </p>
+  <br>
+  
+<% end %>

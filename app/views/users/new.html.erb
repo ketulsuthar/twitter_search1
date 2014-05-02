@@ -1,0 +1,22 @@
+<%= form_for :users do |f| %>
+  <p>
+    <%= f.label :name %><br>
+    <%= f.text_field :name %>
+  </p>
+ 
+  <p>
+    <%= f.label :screename %><br>
+    <%= f.text_field :screename %>
+  </p>
+ 
+  <p>
+    <%= f.submit "create" , :onclick => 'create'  %>
+  </p>
+<% end %>
+<br><br>
+<%= link_to 'Search for user', search_search_path %>
+
+
+
+
+

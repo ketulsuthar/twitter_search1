@@ -1,0 +1,329 @@
+Script started on Tue 29 Apr 2014 04:54:13 PM IST
+]0;sachin@ubuntu: /media/New Volume/mongoappsachin@ubuntu:/media/New Volume/mongoapp$ ab -n 1000 -w http://localhost:9292/useers[A]0;sachin@ubuntu: /media/New Volume/mongoappsachin@ubuntu:/media/New Volume/mongoapp$ [C[C[C[C[C[C[C[C[C[C[C[Cc 50 http://localhost:9292/users[A]0;sachin@ubuntu: /media/New Volume/mongoappsachin@ubuntu:/media/New Volume/mongoapp$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C-v 5 http://localhost:9292/users[A]0;sachin@ubuntu: /media/New Volume/mongoappsachin@ubuntu:/media/New Volume/mongoapp$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chttp://localhost:9292/[5Pusers[A]0;sachin@ubuntu: /media/New Volume/mongoappsachin@ubuntu:/media/New Volume/mongoapp$ [C[C[C[C[C[C[C[C[C[C[C[Cw http://localhost:9292/use[3Prs[A]0;sachin@ubuntu: /media/New Volume/mongoappsachin@ubuntu:/media/New Volume/mongoapp$ [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cab -n 1000 -w http://localhost:9292/useers[A]0;sachin@ubuntu: /media/New Volume/mongoappsachin@ubuntu:/media/New Volume/mongoapp$ [C[C[C[C[C[C[C[C[C[C[C[Cc 50 http://localhost:9292/users[A]0;sachin@ubuntu: /media/New Volume/mongoappsachin@ubuntu:/media/New Volume/mongoapp$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C-v 5 http://localhost:9292/users[A]0;sachin@ubuntu: /media/New Volume/mongoappsachin@ubuntu:/media/New Volume/mongoapp$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chttp://localhost:92[C[C[2P/users[A]0;sachin@ubuntu: /media/New Volume/mongoappsachin@ubuntu:/media/New Volume/mongoapp$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CA slnksachin:Sachin19[C[C http://api.espress.in/projects[K[A]0;sachin@ubuntu: /media/New Volume/mongoappsachin@ubuntu:/media/New Volume/mongoapp$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chttp://api.espress.in/[K[A]0;sachin@ubuntu: /media/New Volume/mongoappsachin@ubuntu:/media/New Volume/mongoapp$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C http://api.espress.in/ [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0 http://api.espress.in//[A]0;sachin@ubuntu: /media/New Volume/mongoappsachin@ubuntu:/media/New Volume/mongoapp$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C-A slnksachin:Sachin1992 http://api.espress.in/projects[A]0;sachin@ubuntu: /media/New Volume/mongoappsachin@ubuntu:/media/New Volume/mongoapp$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cv http://localhost:92[C[C/users[K[A]0;sachin@ubuntu: /media/New Volume/mongoappsachin@ubuntu:/media/New Volume/mongoapp$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C5 http://localhost:[C[C92/users[A]0;sachin@ubuntu: /media/New Volume/mongoappsachin@ubuntu:/media/New Volume/mongoapp$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chttp://localhost:9292/[5Pusers[A]0;sachin@ubuntu: /media/New Volume/mongoappsachin@ubuntu:/media/New Volume/mongoapp$ [C[C[C[C[C[C[C[C[C[C[C[Cw http://localhost:9292/use[3Prs[A]0;sachin@ubuntu: /media/New Volume/mongoappsachin@ubuntu:/media/New Volume/mongoapp$ [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crake facebook:setup
+rake aborted!
+Don't know how to build task 'facebook:setup'
+
+(See full trace by running task with --trace)
+]0;sachin@ubuntu: /media/New Volume/mongoappsachin@ubuntu:/media/New Volume/mongoapp$ rake facebook:setupab -n 1000 -w http://localhost:9292/useers[A]0;sachin@ubuntu: /media/New Volume/mongoappsachin@ubuntu:/media/New Volume/mongoapp$ [C[C[C[C[C[C[C[C[C[C[C[Cc 50 http://localhost:9292/users[A]0;sachin@ubuntu: /media/New Volume/mongoappsachin@ubuntu:/media/New Volume/mongoapp$ [C[C[C[C[C[C[C[C[C[C[C[Cw http://localhost:9292/use[3Prs[A]0;sachin@ubuntu: /media/New Volume/mongoappsachin@ubuntu:/media/New Volume/mongoapp$ [19Prake facebook:setup
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Krail[K[K[K[Krails plugin install svn://rubyforge.o rg/var/svn/rfacebook/trunk/rfacebook/plugins/rfacebook
+
+Usage:
+  rails plugin new APP_PATH [options]
+
+Options:
+  -r, [--ruby=PATH]                                      # Path to the Ruby binary of your choice
+                                                         # Default: /home/sachin/.rvm/rubies/ruby-2.1.0/bin/ruby
+  -m, [--template=TEMPLATE]                              # Path to some plugin template (can be a filesystem path or URL)
+      [--skip-gemfile], [--no-skip-gemfile]              # Don't create a Gemfile
+  -B, [--skip-bundle], [--no-skip-bundle]                # Don't run bundle install
+  -G, [--skip-git], [--no-skip-git]                      # Skip .gitignore file
+      [--skip-keeps], [--no-skip-keeps]                  # Skip source control .keep files
+  -O, [--skip-active-record], [--no-skip-active-record]  # Skip Active Record files
+  -S, [--skip-sprockets], [--no-skip-sprockets]          # Skip Sprockets files
+  -d, [--database=DATABASE]                              # Preconfigure for selected database (options: mysql/oracle/postgresql/sqlite3/frontbase/ibm_db/sqlserver/jdbcmysql/jdbcsqlite3/jdbcpostgresql/jdbc)
+                                                         # Default: sqlite3
+  -j, [--javascript=JAVASCRIPT]                          # Preconfigure for selected JavaScript library
+                                                         # Default: jquery
+  -J, [--skip-javascript], [--no-skip-javascript]        # Skip JavaScript files
+      [--dev], [--no-dev]                                # Setup the plugin with Gemfile pointing to your Rails checkout
+      [--edge], [--no-edge]                              # Setup the plugin with Gemfile pointing to Rails repository
+  -T, [--skip-test-unit], [--no-skip-test-unit]          # Skip Test::Unit files
+      [--rc=RC]                                          # Path to file containing extra configuration options for rails command
+      [--no-rc], [--no-no-rc]                            # Skip loading of extra configuration options from .railsrc file
+      [--dummy-path=DUMMY_PATH]                          # Create dummy application at given path
+                                                         # Default: test/dummy
+      [--full], [--no-full]                              # Generate a rails engine with bundled Rails application for testing
+      [--mountable], [--no-mountable]                    # Generate mountable isolated application
+      [--skip-gemspec], [--no-skip-gemspec]              # Skip gemspec file
+      [--skip-gemfile-entry], [--no-skip-gemfile-entry]  # If creating plugin in application's directory skip adding entry to Gemfile
+
+Runtime options:
+  -f, [--force]                    # Overwrite files that already exist
+  -p, [--pretend], [--no-pretend]  # Run but do not make any changes
+  -q, [--quiet], [--no-quiet]      # Suppress status output
+  -s, [--skip], [--no-skip]        # Skip files that already exist
+
+Rails options:
+  -h, [--help], [--no-help]  # Show this help message and quit
+
+Description:
+    The 'rails plugin new' command creates a skeleton for developing any
+    kind of Rails extension with ability to run tests using dummy Rails
+    application.
+
+Example:
+    rails plugin new ~/Code/Ruby/blog
+
+    This generates a skeletal Rails plugin in ~/Code/Ruby/blog.
+    See the README in the newly created plugin to get going.
+]0;sachin@ubuntu: /media/New Volume/mongoappsachin@ubuntu:/media/New Volume/mongoapp$ 
+]0;sachin@ubuntu: /media/New Volume/mongoappsachin@ubuntu:/media/New Volume/mongoapp$ rails plugin install svn://rubyforge.orrg/var/svn/rfacebook/trunk/rfacebook/plugins/rfacebook[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C svn://rubyforge.org[1P/var/svn/rfacebook/trunk/rfacebook/plugins/rfacebook[A[C[C[C[C[C[C[C[C svn://rubyforge.org/[1Pvar/svn/rfacebook/trunk/rfacebook/plugins/rfacebook[A[C[C[C[C[C[C[C[C svn://rubyforge.org/v[1Par/svn/rfacebook/trunk/rfacebook/plugins/rfacebook[A[C[C[C[C[C[C[C[C svn://rubyforge.org/va[1Pr/svn/rfacebook/trunk/rfacebook/plugins/rfacebook[A[C[C[C[C[C[C[C[C svn://rubyforge.org/var[1P/svn/rfacebook/trunk/rfacebook/plugins/rfacebook[A[C[C[C[C[C[C[C[C svn://rubyforge.org/var/[1Psvn/rfacebook/trunk/rfacebook/plugins/rfacebook[A[C[C[C[C[C[C[C[C svn://rubyforge.org/var/s[1Pvn/rfacebook/trunk/rfacebook/plugins/rfacebook[A[C[C[C[C[C[C[C[Cn svn://rubyforge.org/var/svn/rfacebook/trunk/rfacebook/plugins/rfacebook[A[C[C[C[C[C[C[C[Ce svn://rubyforge.org/var/svn/rfacebook/trunk/rfacebook/plugins/rfacebook[A[C[C[C[C[C[C[C[Cw svn://rubyforge.org/var/svn/rfacebook/trunk/rfacebook/plugins/rfacebook[A[C[C[C[C[C[C[C[C
+
+[1m[32m      create[0m  
+[1m[32m      create[0m  README.rdoc
+[1m[32m      create[0m  Rakefile
+[1m[32m      create[0m  rfacebook.gemspec
+[1m[32m      create[0m  MIT-LICENSE
+[1m[32m      create[0m  .gitignore
+[1m[32m      create[0m  Gemfile
+[1m[32m      create[0m  lib/rfacebook.rb
+[1m[32m      create[0m  lib/tasks/rfacebook_tasks.rake
+[1m[32m      create[0m  lib/rfacebook/version.rb
+[1m[32m      create[0m  test/test_helper.rb
+[1m[32m      create[0m  test/rfacebook_test.rb
+[1m[32m      append[0m  Rakefile
+[1m[32m  vendor_app[0m  test/dummy
+[1m[32m         run[0m  bundle install
+Fetching gem metadata from https://rubygems.org/...........
+Fetching additional metadata from https://rubygems.org/..
+Resolving dependencies...
+Using rake (10.3.1)
+Using i18n (0.6.9)
+Using minitest (4.7.5)
+Using multi_json (1.9.3)
+Using thread_safe (0.3.3)
+Using tzinfo (0.3.39)
+Using activesupport (4.0.4)
+Using builder (3.1.4)
+Using erubis (2.7.0)
+Using rack (1.5.2)
+Using rack-test (0.6.2)
+Using actionpack (4.0.4)
+Using mime-types (1.25.1)
+Using polyglot (0.3.4)
+Using treetop (1.4.15)
+Using mail (2.5.4)
+Using actionmailer (4.0.4)
+Using activemodel (4.0.4)
+Using activerecord-deprecated_finders (1.0.3)
+Using arel (4.0.2)
+Using activerecord (4.0.4)
+Using bundler (1.5.2)
+Using hike (1.2.3)
+Using thor (0.19.1)
+Using railties (4.0.4)
+Using tilt (1.4.1)
+Installing sprockets (2.12.1)
+Using sprockets-rails (2.0.1)
+Using rails (4.0.4)
+
+rfacebook at /media/New Volume/mongoapp/svn:/rubyforge.org/var/svn/rfacebook/trunk/rfacebook/plugins/rfacebook did not have a valid gemspec.
+This prevents bundler from installing bins or native extensions, but that may not affect its functionality.
+The validation message from Rubygems was:
+  "FIXME" or "TODO" is not an author
+Using rfacebook (0.0.1) from source at .
+Installing sqlite3 (1.3.9)
+Your bundle is complete!
+Use `bundle show [gemname]` to see where a bundled gem is installed.
+]0;sachin@ubuntu: /media/New Volume/mongoappsachin@ubuntu:/media/New Volume/mongoapp$ rails plugin new svn://rubyforge.org/vaar/svn/rfacebook/trunk/rfacebook/plugins/rfacebook[A[C[C[C[C[Cinstall svn://rubyforge.org/var/svn/rfacebook/trunk/rfacebook/plugins/rfacebook[A[19Pke facebook:setup
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+rake aborted!
+Don't know how to build task 'facebook:setup'
+
+(See full trace by running task with --trace)
+]0;sachin@ubuntu: /media/New Volume/mongoappsachin@ubuntu:/media/New Volume/mongoapp$ plugin
+plugin: command not found
+]0;sachin@ubuntu: /media/New Volume/mongoappsachin@ubuntu:/media/New Volume/mongoapp$ pluginrake facebook:setupils plugin new svn://rubyforge.org/vaar/svn/rfacebook/trunk/rfacebook/plugins/rfacebook[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C svn://rubyforge.org/var[1P/svn/rfacebook/trunk/rfacebook/plugins/rfacebook[A[C[C[C[C[C[C[C[C svn://rubyforge.org/var/[1Psvn/rfacebook/trunk/rfacebook/plugins/rfacebook[A[C[C[C[C[C[C[C[C svn://rubyforge.org/var/s[1Pvn/rfacebook/trunk/rfacebook/plugins/rfacebook[A[C[C[C[C[C[C[C[Ci svn://rubyforge.org/var/svn/rfacebook/trunk/rfacebook/plugins/rfacebook[A[C[C[C[C[C[C[C[Cn svn://rubyforge.org/var/svn/rfacebook/trunk/rfacebook/plugins/rfacebook[A[C[C[C[C[C[C[C[Cs svn://rubyforge.org/var/svn/rfacebook/trunk/rfacebook/plugins/rfacebook[A[C[C[C[C[C[C[C[Ct svn://rubyforge.org/var/svn/rfacebook/trunk/rfacebook/plugins/rfacebook[A[C[C[C[C[C[C[C[Ca svn://rubyforge.org/var/svn/rfacebook/trunk/rfacebook/plugins/rfacebook[A[C[C[C[C[C[C[C[Cl svn://rubyforge.org/var/svn/rfacebook/trunk/rfacebook/plugins/rfacebook[A[C[C[C[C[C[C[C[Cl svn://rubyforge.org/var/svn/rfacebook/trunk/rfacebook/plugins/rfacebook[A[C[C[C[C[C[C[C[C
+
+Usage:
+  rails plugin new APP_PATH [options]
+
+Options:
+  -r, [--ruby=PATH]                                      # Path to the Ruby binary of your choice
+                                                         # Default: /home/sachin/.rvm/rubies/ruby-2.1.0/bin/ruby
+  -m, [--template=TEMPLATE]                              # Path to some plugin template (can be a filesystem path or URL)
+      [--skip-gemfile], [--no-skip-gemfile]              # Don't create a Gemfile
+  -B, [--skip-bundle], [--no-skip-bundle]                # Don't run bundle install
+  -G, [--skip-git], [--no-skip-git]                      # Skip .gitignore file
+      [--skip-keeps], [--no-skip-keeps]                  # Skip source control .keep files
+  -O, [--skip-active-record], [--no-skip-active-record]  # Skip Active Record files
+  -S, [--skip-sprockets], [--no-skip-sprockets]          # Skip Sprockets files
+  -d, [--database=DATABASE]                              # Preconfigure for selected database (options: mysql/oracle/postgresql/sqlite3/frontbase/ibm_db/sqlserver/jdbcmysql/jdbcsqlite3/jdbcpostgresql/jdbc)
+                                                         # Default: sqlite3
+  -j, [--javascript=JAVASCRIPT]                          # Preconfigure for selected JavaScript library
+                                                         # Default: jquery
+  -J, [--skip-javascript], [--no-skip-javascript]        # Skip JavaScript files
+      [--dev], [--no-dev]                                # Setup the plugin with Gemfile pointing to your Rails checkout
+      [--edge], [--no-edge]                              # Setup the plugin with Gemfile pointing to Rails repository
+  -T, [--skip-test-unit], [--no-skip-test-unit]          # Skip Test::Unit files
+      [--rc=RC]                                          # Path to file containing extra configuration options for rails command
+      [--no-rc], [--no-no-rc]                            # Skip loading of extra configuration options from .railsrc file
+      [--dummy-path=DUMMY_PATH]                          # Create dummy application at given path
+                                                         # Default: test/dummy
+      [--full], [--no-full]                              # Generate a rails engine with bundled Rails application for testing
+      [--mountable], [--no-mountable]                    # Generate mountable isolated application
+      [--skip-gemspec], [--no-skip-gemspec]              # Skip gemspec file
+      [--skip-gemfile-entry], [--no-skip-gemfile-entry]  # If creating plugin in application's directory skip adding entry to Gemfile
+
+Runtime options:
+  -f, [--force]                    # Overwrite files that already exist
+  -p, [--pretend], [--no-pretend]  # Run but do not make any changes
+  -q, [--quiet], [--no-quiet]      # Suppress status output
+  -s, [--skip], [--no-skip]        # Skip files that already exist
+
+Rails options:
+  -h, [--help], [--no-help]  # Show this help message and quit
+
+Description:
+    The 'rails plugin new' command creates a skeleton for developing any
+    kind of Rails extension with ability to run tests using dummy Rails
+    application.
+
+Example:
+    rails plugin new ~/Code/Ruby/blog
+
+    This generates a skeletal Rails plugin in ~/Code/Ruby/blog.
+    See the README in the newly created plugin to get going.
+]0;sachin@ubuntu: /media/New Volume/mongoappsachin@ubuntu:/media/New Volume/mongoapp$ rails plugin install
+Usage:
+  rails plugin new APP_PATH [options]
+
+Options:
+  -r, [--ruby=PATH]                                      # Path to the Ruby binary of your choice
+                                                         # Default: /home/sachin/.rvm/rubies/ruby-2.1.0/bin/ruby
+  -m, [--template=TEMPLATE]                              # Path to some plugin template (can be a filesystem path or URL)
+      [--skip-gemfile], [--no-skip-gemfile]              # Don't create a Gemfile
+  -B, [--skip-bundle], [--no-skip-bundle]                # Don't run bundle install
+  -G, [--skip-git], [--no-skip-git]                      # Skip .gitignore file
+      [--skip-keeps], [--no-skip-keeps]                  # Skip source control .keep files
+  -O, [--skip-active-record], [--no-skip-active-record]  # Skip Active Record files
+  -S, [--skip-sprockets], [--no-skip-sprockets]          # Skip Sprockets files
+  -d, [--database=DATABASE]                              # Preconfigure for selected database (options: mysql/oracle/postgresql/sqlite3/frontbase/ibm_db/sqlserver/jdbcmysql/jdbcsqlite3/jdbcpostgresql/jdbc)
+                                                         # Default: sqlite3
+  -j, [--javascript=JAVASCRIPT]                          # Preconfigure for selected JavaScript library
+                                                         # Default: jquery
+  -J, [--skip-javascript], [--no-skip-javascript]        # Skip JavaScript files
+      [--dev], [--no-dev]                                # Setup the plugin with Gemfile pointing to your Rails checkout
+      [--edge], [--no-edge]                              # Setup the plugin with Gemfile pointing to Rails repository
+  -T, [--skip-test-unit], [--no-skip-test-unit]          # Skip Test::Unit files
+      [--rc=RC]                                          # Path to file containing extra configuration options for rails command
+      [--no-rc], [--no-no-rc]                            # Skip loading of extra configuration options from .railsrc file
+      [--dummy-path=DUMMY_PATH]                          # Create dummy application at given path
+                                                         # Default: test/dummy
+      [--full], [--no-full]                              # Generate a rails engine with bundled Rails application for testing
+      [--mountable], [--no-mountable]                    # Generate mountable isolated application
+      [--skip-gemspec], [--no-skip-gemspec]              # Skip gemspec file
+      [--skip-gemfile-entry], [--no-skip-gemfile-entry]  # If creating plugin in application's directory skip adding entry to Gemfile
+
+Runtime options:
+  -f, [--force]                    # Overwrite files that already exist
+  -p, [--pretend], [--no-pretend]  # Run but do not make any changes
+  -q, [--quiet], [--no-quiet]      # Suppress status output
+  -s, [--skip], [--no-skip]        # Skip files that already exist
+
+Rails options:
+  -h, [--help], [--no-help]  # Show this help message and quit
+
+Description:
+    The 'rails plugin new' command creates a skeleton for develC[C[C[C[C[C[Cs svn://rubyforge.org/var/svn/rfacebook/trunk/rfacebook/plugins/rfacebook[A[C[C[C[C[C[C[C[Ct svn://rubyforge.org/var/svn/rfacebook/trunk/rfacebook/plugins/rfacebook[A[C[C[C[C[C[C[C[Ca svn://rubyforge.org/var/svn/rfacebook/trunk/rfacebook/plugins/rfacebook[A[C[C[C[C[C[C[C[Cl svn://rubyforge.org/var/svn/rfacebook/trunk/rfacebook/plugins/rfacebook[A[C[C[C[C[C[C[C[Cl svn://rubyforge.org/var/svn/rfacebook/trunk/rfacebook/plugins/rfacebook[A[C[C[C[C[C[C[C[C
+
+Usage:
+  rails plugin new APP_PATH [options]
+
+Options:
+  -r, [--ruby=PATH]                                      # Path to the Ruby binary of your choice
+                                                         # Default: /home/sachin/.rvm/rubies/ruby-2.1.0/bin/ruby
+  -m, [--template=TEMPLATE]                              # Path to some plugin template (can be a filesystem path or URL)
+      [--skip-gemfile], [--no-skip-gemfile]              # Don't create a Gemfile
+  -B, [--skip-bundle], [--no-skip-bundle]                # Don't run bundle install
+  -G, [--skip-git], [--no-skip-git]                      # Skip .gitignore file
+      [--skip-keeps], [--no-skip-keeps]                  # Skip source control .keep files
+  -O, [--skip-active-record], [--no-skip-active-record]  # Skip Active Record files
+  -S, [--skip-sprockets], [--no-skip-sprockets]          # Skip Sprockets files
+  -d, [--database=DATABASE]                              # Preconfigure for selected database (options: mysql/oracle/postgresql/sqlite3/frontbase/ibm_db/sqlserver/jdbcmysql/jdbcsqlite3/jdbcpostgresql/jdbc)
+                                                         # Default: sqlite3
+  -j, [--javascript=JAVASCRIPT]                          # Preconfigure for selected JavaScript library
+                                                         # Default: jquery
+  -J, [--skip-javascript], [--no-skip-javascript]        # Skip JavaScript files
+      [--dev], [--no-dev]                                # Setup the plugin with Gemfile pointing to your Rails checkout
+      [--edge], [--no-edge]                              # Setup the plugin with Gemfile pointing to Rails repository
+  -T, [--skip-test-unit], [--no-skip-test-unit]          # Skip Test::Unit files
+      [--rc=RC]                                          # Path to file containing extra configuration options for rails command
+      [--no-rc], [--no-no-rc]                            # Skip loading of extra configuration options from .railsrc file
+      [--dummy-path=DUMMY_PATH]                          # Create dummy application at given path
+                                                         # Default: test/dummy
+      [--full], [--no-full]                              # Generate a rails engine with bundled Rails application for testing
+      [--mountable], [--no-mountable]                    # Generate mountable isolated application
+      [--skip-gemspec], [--no-skip-gemspec]              # Skip gemspec file
+      [--skip-gemfile-entry], [--no-skip-gemfile-entry]  # If creating plugin in application's directory skip adding entry to Gemfile
+
+Runtime options:
+  -f, [--force]                    # Overwrite files that already exist
+  -p, [--pretend], [--no-pretend]  # Run but do not make any changes
+  -q, [--quiet], [--no-quiet]      # Suppress status output
+  -s, [--skip], [--no-skip]        # Skip files that already exist
+
+Rails options:
+  -h, [--help], [--no-help]  # Show this help message and quit
+
+Description:
+    The 'rails plugin new' command creates a skeleton for developing any
+    kind of Rails extension with ability to run tests using dummy Rails
+    application.
+
+Example:
+    rails plugin new ~/Code/Ruby/blog
+
+    This generates a skeletal Rails plugin in ~/Code/Ruby/blog.
+    See the README in the newly created plugin to get going.
+]0;sachin@ubuntu: /media/New Volume/mongoappsachin@ubuntu:/media/New Volume/mongoapp$ rails plugin install
+Usage:
+  rails plugin new APP_PATH [options]
+
+Options:
+  -r, [--ruby=PATH]                                      # Path to the Ruby binary of your choice
+                                                         # Default: /home/sachin/.rvm/rubies/ruby-2.1.0/bin/ruby
+  -m, [--template=TEMPLATE]                              # Path to some plugin template (can be a filesystem path or URL)
+      [--skip-gemfile], [--no-skip-gemfile]              # Don't create a Gemfile
+  -B, [--skip-bundle], [--no-skip-bundle]                # Don't run bundle install
+  -G, [--skip-git], [--no-skip-git]                      # Skip .gitignore file
+      [--skip-keeps], [--no-skip-keeps]                  # Skip source control .keep files
+  -O, [--skip-active-record], [--no-skip-active-record]  # Skip Active Record files
+  -S, [--skip-sprockets], [--no-skip-sprockets]          # Skip Sprockets files
+  -d, [--database=DATABASE]                              # Preconfigure for selected database (options: mysql/oracle/postgresql/sqlite3/frontbase/ibm_db/sqlserver/jdbcmysql/jdbcsqlite3/jdbcpostgresql/jdbc)
+                                                         # Default: sqlite3
+  -j, [--javascript=JAVASCRIPT]                          # Preconfigure for selected JavaScript library
+                                                         # Default: jquery
+  -J, [--skip-javascript], [--no-skip-javascript]        # Skip JavaScript files
+      [--dev], [--no-dev]                                # Setup the plugin with Gemfile pointing to your Rails checkout
+      [--edge], [--no-edge]                              # Setup the plugin with Gemfile pointing to Rails repository
+  -T, [--skip-test-unit], [--no-skip-test-unit]          # Skip Test::Unit files
+      [--rc=RC]                                          # Path to file containing extra configuration options for rails command
+      [--no-rc], [--no-no-rc]                            # Skip loading of extra configuration options from .railsrc file
+      [--dummy-path=DUMMY_PATH]                          # Create dummy application at given path
+                                                         # Default: test/dummy
+      [--full], [--no-full]                              # Generate a rails engine with bundled Rails application for testing
+      [--mountable], [--no-mountable]                    # Generate mountable isolated application
+      [--skip-gemspec], [--no-skip-gemspec]              # Skip gemspec file
+      [--skip-gemfile-entry], [--no-skip-gemfile-entry]  # If creating plugin in application's directory skip adding entry to Gemfile
+
+Runtime options:
+  -f, [--force]                    # Overwrite files that already exist
+  -p, [--pretend], [--no-pretend]  # Run but do not make any changes
+  -q, [--quiet], [--no-quiet]      # Suppress status output
+  -s, [--skip], [--no-skip]        # Skip files that already exist
+
+Rails options:
+  -h, [--help], [--no-help]  # Show this help message and quit
+
+Description:
+    The 'rails plugin new' command creates a skeleton for developing any
+    kind of Rails extension with ability to run tests using dummy Rails
+    application.
+
+Example:
+    rails plugin new ~/Code/Ruby/blog
+
+    This generates a skeletal Rails plugin in ~/Code/Ruby/blog.
+    See the README in the newly created plugin to get going.
+]0;sachin@ubuntu: /media/New Volume/mongoappsachin@ubuntu:/media/New Volume/mongoapp$ script/plugin
+bash: script/plugin: No such file or directory
+]0;sachin@ubuntu: /media/New Volume/mongoappsachin@ubuntu:/media/New Volume/mongoapp$ script
+Script started, file is typescript
+]0;sachin@ubuntu: /media/New Volume/mongoappsachin@ubuntu:/media/New Volume/mongoapp$ ab -n 1000 -w http://localhost:9292/useers[A]0;sachin@ubuntu: /media/New Volume/mongoappsachin@ubuntu:/media/New Volume/mongoapp$ [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cscript install svn:
+app/          db/           install       Rakefile      tmp/
+bin/          Gemfile       lib/          README.rdoc   typescript
+conf
